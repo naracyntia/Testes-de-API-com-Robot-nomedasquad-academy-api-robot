@@ -14,8 +14,10 @@
 - Qualitys Hunters
 - 
 ## Tech lead
-- Cleberson
+- Cleberson Osorio
    
 ## Participante:
 - Renilson
 - Nara Cyntia
+
+teste teste 
